@@ -8,9 +8,8 @@ projects[drupal][version] = 7.23
 
 ; ASU Overrides
 
-projects[simple_gmap][version] = 1.0
+projects[simple_gmap][version] = 1.2
 projects[simple_gmap][subdir] = contrib
-projects[simple_gmap][patch][2070277] = https://drupal.org/files/21085150-simple-gmap-support-https-1.patch
 
 ; The Panopoly Foundation
 
